@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tryrest-dev-212548-authRole",
+      "UnauthRoleArn": "arn:aws:iam::768007369978:role/amplify-tryrest-dev-212548-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::768007369978:role/amplify-tryrest-dev-212548-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tryrest-dev-212548-deployment",
+      "UnauthRoleName": "amplify-tryrest-dev-212548-unauthRole",
+      "StackName": "amplify-tryrest-dev-212548",
+      "StackId": "arn:aws:cloudformation:us-east-1:768007369978:stack/amplify-tryrest-dev-212548/5925af30-218d-11ec-9800-0ed687792769",
+      "AmplifyAppId": "d1cxdzq6deeiz0"
+    }
+  }
+}
